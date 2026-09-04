@@ -48,8 +48,8 @@ Unity로 개발한 개인 2D 액션 RPG 프로젝트입니다.
 
 - [CanonControl.cs](Source/Character/Canon/CanonControl.cs)
 - [EarthElementManager.cs](Source/Character/Canon/EarthElementManager.cs)
-- [GroundEx.cs](Source/Character/Canon/Skills/GroundEx.cs)
-- [Sk_05Whirlwind.cs](Source/Character/Canon/Skills/Sk_05Whirlwind.cs)
+- [GroundEx.cs](Source/Character/Canon/GroundEx.cs)
+- [Sk_05Whirlwind.cs](Source/Character/Canon/Sk_05Whirlwind.cs)
 
 #### 레인
 
@@ -58,8 +58,8 @@ Unity로 개발한 개인 2D 액션 RPG 프로젝트입니다.
 
 - [RainControl.cs](Source/Character/Rain/RainControl.cs)
 - [MagicDewManager.cs](Source/Character/Rain/MagicDewManager.cs)
-- [Sk_13WaterBlessing.cs](Source/Character/Rain/Skills/Sk_13WaterBlessing.cs)
-- [Sk_15Dewshield.cs](Source/Character/Rain/Skills/Sk_15Dewshield.cs)
+- [Sk_13WaterBlessing.cs](Source/Character/Rain/Sk_13WaterBlessing.cs)
+- [Sk_15Dewshield.cs](Source/Character/Rain/Sk_15Dewshield.cs)
 
 ### 2. 데이터 기반 스킬 시스템
 
