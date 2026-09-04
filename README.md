@@ -58,8 +58,9 @@ Unity로 개발한 개인 2D 액션 RPG 프로젝트입니다.
 
 - [RainControl.cs](Source/Character/Rain/RainControl.cs)
 - [MagicDewManager.cs](Source/Character/Rain/MagicDewManager.cs)
-- [Sk_13WaterBlessing.cs](Source/Character/Rain/Sk_11Bubble.cs)
-- [Sk_15Dewshield.cs](Source/Character/Rain/Sk_14Dewfall.cs)
+- [Sk_11Bubble.cs](Source/Character/Rain/Sk_11Bubble.cs)
+- [Sk_14Dewfall.cs](Source/Character/Rain/Sk_14Dewfall.cs)
+- [Sk_16WrathWater.cs](Source/Character/Rain/Sk_16WrathWater.cs)
 
 ### 2. 데이터 기반 스킬 시스템
 
