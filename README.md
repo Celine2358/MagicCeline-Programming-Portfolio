@@ -1,5 +1,5 @@
 # Magic Celine — Programming Portfolio
-
+![Magic Celine Gameplay](./Source/Assets/MagicCeline_play.gif)
 Unity로 개발한 개인 2D 액션 RPG 프로젝트입니다.
 
 이 저장소에는 전체 프로젝트 중 제가 직접 구현한 캐릭터 컨트롤,  
